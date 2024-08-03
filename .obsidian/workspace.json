@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Animacion/12 principios de la animación.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Animacion/12 principios de la animación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Animacion/12 principios de la animación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Animacion/12 principios de la animación.md"
               }
             }
           }
@@ -176,15 +176,19 @@
   },
   "active": "b534c7270606b64b",
   "lastOpenFiles": [
+    "Clases/Clase 1.canvas",
     "Excalidraw/Drawing 2024-07-25 08.15.52.excalidraw.md",
+    "Animacion/12 principios de la animación.md",
     "README.md",
     "Videos de alfredprof3.md",
-    "Clases/Clase 1.canvas",
+    "Materias/Diseño",
+    "Materias/Computacion",
+    "Materias/Marketing",
+    "Materias",
     "Excalidraw",
-    "Temas/Animación digital.md",
     "Untitled.canvas",
     "Clases",
-    "Temas",
+    "Animacion",
     "2024-07-01.md",
     "2024-06-30.md",
     "Welcome.md"
