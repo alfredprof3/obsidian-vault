@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "0c66dd7ce6783fd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbc8e93acadb3a72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be7a5944bd945a34",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Clases/Clase 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "fb4ae4f43c259926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Videos de alfredprof3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de320f1b2f451b96",
+    "type": "split",
+    "children": [
+      {
+        "id": "b76c51a6ad7c89d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d406c2fa07245d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4af7c5a2d2a5e595",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afb262b9e3c9dedf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58b28ac8d09e80a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdc383693967eac8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a923e0d8745cb4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Videos de alfredprof3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d455fc95879085a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Videos de alfredprof3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57869e8d3c184aae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bbe4d254a7294f5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Videos de alfredprof3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fb4ae4f43c259926",
+  "lastOpenFiles": [
+    "Clases/Clase 1.canvas",
+    "Videos de alfredprof3.md",
+    "Excalidraw/Drawing 2024-07-25 08.15.52.excalidraw.md",
+    "Excalidraw",
+    "Temas/Animación digital.md",
+    "Untitled.canvas",
+    "Clases",
+    "Temas",
+    "2024-07-01.md",
+    "2024-06-30.md",
+    "Welcome.md"
+  ]
+}
