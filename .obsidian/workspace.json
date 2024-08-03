@@ -26,16 +26,26 @@
             "id": "fb4ae4f43c259926",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-25 08.15.52.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "b534c7270606b64b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos de alfredprof3.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos de alfredprof3.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Videos de alfredprof3.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos de alfredprof3.md"
+                "file": "README.md"
               }
             }
           }
@@ -164,11 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb4ae4f43c259926",
+  "active": "b534c7270606b64b",
   "lastOpenFiles": [
-    "Clases/Clase 1.canvas",
-    "Videos de alfredprof3.md",
     "Excalidraw/Drawing 2024-07-25 08.15.52.excalidraw.md",
+    "README.md",
+    "Videos de alfredprof3.md",
+    "Clases/Clase 1.canvas",
     "Excalidraw",
     "Temas/Animación digital.md",
     "Untitled.canvas",
