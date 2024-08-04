@@ -1,39 +1,14 @@
 {
   "main": {
-    "id": "0c66dd7ce6783fd8",
+    "id": "6541cf9f4b968aad",
     "type": "split",
     "children": [
       {
-        "id": "fbc8e93acadb3a72",
+        "id": "ef4463f6902c70bf",
         "type": "tabs",
         "children": [
           {
-            "id": "be7a5944bd945a34",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Clases/Clase 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "fb4ae4f43c259926",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-25 08.15.52.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "b534c7270606b64b",
+            "id": "1639a27529640abd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,22 +19,21 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "de320f1b2f451b96",
+    "id": "7c916508832a3212",
     "type": "split",
     "children": [
       {
-        "id": "b76c51a6ad7c89d1",
+        "id": "a6c1e957c7f2c02f",
         "type": "tabs",
         "children": [
           {
-            "id": "81d406c2fa07245d",
+            "id": "8ada71907c73758f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,7 +43,7 @@
             }
           },
           {
-            "id": "4af7c5a2d2a5e595",
+            "id": "9542649dc09bf1ee",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -84,7 +58,7 @@
             }
           },
           {
-            "id": "afb262b9e3c9dedf",
+            "id": "5b9894820f5306fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "58b28ac8d09e80a2",
+    "id": "2c0697b03a0ee315",
     "type": "split",
     "children": [
       {
-        "id": "bdc383693967eac8",
+        "id": "87bdb19cb51838b6",
         "type": "tabs",
         "children": [
           {
-            "id": "1a923e0d8745cb4c",
+            "id": "dcb0cdcbc888109f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -123,7 +97,7 @@
             }
           },
           {
-            "id": "1d455fc95879085a",
+            "id": "0d1ae88c6aa7287b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -135,7 +109,7 @@
             }
           },
           {
-            "id": "57869e8d3c184aae",
+            "id": "854b8b5330d78c69",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -146,7 +120,7 @@
             }
           },
           {
-            "id": "bbe4d254a7294f5b",
+            "id": "7be137aa18b27f7f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -164,32 +138,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b534c7270606b64b",
+  "active": "1639a27529640abd",
   "lastOpenFiles": [
-    "Clases/Clase 1.canvas",
-    "Excalidraw/Drawing 2024-07-25 08.15.52.excalidraw.md",
-    "Animacion/12 principios de la animación.md",
     "README.md",
     "Videos de alfredprof3.md",
-    "Materias/Diseño",
-    "Materias/Computacion",
-    "Materias/Marketing",
-    "Materias",
+    "Excalidraw/Drawing 2024-07-25 08.15.52.excalidraw.md",
     "Excalidraw",
-    "Untitled.canvas",
+    "Clases/Clase 1.canvas",
     "Clases",
+    "Animacion/12 principios de la animación.md",
     "Animacion",
-    "2024-07-01.md",
+    "Triangulo exposicion.canvas",
+    "Triangulo de exposicion.md",
+    "Excalidraw/Drawing 2024-07-29 18.41.38.excalidraw.md",
     "2024-06-30.md",
     "Welcome.md"
   ]
