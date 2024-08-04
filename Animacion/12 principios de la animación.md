@@ -1,3 +1,5 @@
+# Historia de los 12 principios de la animación
+Dos animadores de Disney presentaron los 12 principios de la animación en 1981. Ollie Johnston y Frank Thomas los incluyeron en su libro The Illusion of Life: Disney Animation, publicado aquel año.
 1. Squash & Stretch = **Estirar y encoger**
 2. Anticipation = **Anticipación**
 3. Staging = **Puesta en escena**
