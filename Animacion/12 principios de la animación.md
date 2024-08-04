@@ -22,3 +22,4 @@ Aunque la animación ha evolucionado en las décadas siguientes a la publicació
 10. Exaggeration = **Exageración**
 11. Solid draw = **Dibujo sólido**
 12. Appeal = **Atractivo**
+### Estirar y encoger
