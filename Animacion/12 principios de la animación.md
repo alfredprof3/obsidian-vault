@@ -12,5 +12,7 @@ Dos animadores de Disney presentaron los 12 principios de la animación en 1981.
 10. Exaggeration = **Exageración**
 11. Solid draw = **Dibujo sólido**
 12. Appeal = **Atractivo**
+
 Estos principios de la animación se basan en el trabajo de los animadores en Disney desde la década de 1930, cuando se esforzaban en producir animaciones realistas de personajes de dibujos animados. Los principios se utilizan para crear la ilusión de que los personajes de Disney se rigen por las leyes básicas de la física. También abarcan aspectos abstractos, como la cadencia emocional.
+
 Aunque la animación ha evolucionado en las décadas siguientes a la publicación de The Illusion of Life, sus fundamentos siguen estando vigentes y los 12 principios de la animación continúan aplicándose en todo tipo de áreas, desde las películas al diseño web.
